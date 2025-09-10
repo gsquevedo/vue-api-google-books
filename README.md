@@ -1,25 +1,50 @@
-# Desenvolvimento Web - Google Books API
-O objetivo desse trabalho é utilizar o Google Books API para realizar pesquisas de livros.
-Os livros podem ser filtrados pelo nome do autor, título do livro e sua classificação.
-O foco era a manipulação do Vue 3 utilizando componentes e aprendendo o Composition API.
+# 📚 Desenvolvimento Web - Google Books API
 
-## Desenvolvedor(a)
-Gabriele Soares Quevedo
+**Aplicativo web para pesquisar livros utilizando a Google Books API.**  
 
-## Tecnologias
-- JavaScript
-- Vue.js
-- Google Books API
+O objetivo deste trabalho é realizar pesquisas de livros, permitindo filtros por **nome do autor**, **título do livro** e **classificação**. O foco do projeto foi o aprendizado da **manipulação do Vue 3**, utilizando **componentes** e explorando o **Composition API**.
 
-## Ambiente de Desenvolvimento
+---
+
+## 🚀 Funcionalidades
+
+- Pesquisar livros pelo título.
+- Filtrar livros por autor.
+- Filtrar livros pela classificação (rating).
+- Exibição dos resultados de forma organizada com informações relevantes.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [JavaScript](https://www.javascript.com/)
+- [Vue.js 3](https://v3.vuejs.org/)
+- [Google Books API](https://developers.google.com/books)
+- [Vercel](https://vercel.com/) (hospedagem)
+
+---
+
+## 💻 Ambiente de Desenvolvimento
+
 - VS Code
 
-## Créditos 
-- Vercel (Hospedagem)
-  
-## Bastidores 
-- Uso dos componentes do Vue
-- Aprendi a utilizar a plataforma de hospedagem Vercel
+---
 
-## Link de acesso
-https://project2-gsquevedo.vercel.app/
+## 📁 Bastidores
+
+- Aprendizado do **Vue 3** e do **Composition API**.
+- Estruturação do projeto com **componentes reutilizáveis**.
+- Deploy da aplicação na **plataforma Vercel**.
+
+---
+
+## ⚡ Tags
+
+JavaScript • Vue 3 • API • Front-end • Projeto Pessoal
+
+---
+
+## 🧑‍💻 Desenvolvedor(a)
+
+**Gabriele Soares Quevedo**
+
