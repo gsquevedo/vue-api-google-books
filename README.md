@@ -2,7 +2,7 @@
 
 **Aplicativo web para pesquisar livros utilizando a Google Books API.**  
 
-O objetivo deste trabalho é realizar pesquisas de livros, permitindo filtros por **nome do autor**, **título do livro** e **classificação**. O foco do projeto foi o aprendizado da **manipulação do Vue 3**, utilizando **componentes** e explorando o **Composition API**.
+O objetivo deste trabalho é realizar pesquisas de livros, permitindo filtros por **nome do autor**, **título do livro** e **classificação**. O foco do projeto foi o aprendizado da **manipulação do Vue 3**, utilizando **componentes** e explorando o **Options API**.
 
 ---
 
